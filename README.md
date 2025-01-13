@@ -5,4 +5,5 @@ Pillow Module
 
 Rembg Module 
 
-Converts all images within a directory into png and automatically removes background.
+Quick Script i made to converts all images within a directory into png and automatically remove background.
+
